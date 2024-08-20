@@ -9,4 +9,5 @@ Se llaman **satélites galileanos** los cuatro satélites de Júpiter descubiert
 Este es un texto adicional de prueba
 
 Agregar imagen local
+
 ![Image](img/image.jpg)
