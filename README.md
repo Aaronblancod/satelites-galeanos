@@ -10,4 +10,4 @@ Este es un texto adicional de prueba
 
 Agregar imagen local
 
-![Image](img/image.jpg)
+![Image](img/Image.jpg)
